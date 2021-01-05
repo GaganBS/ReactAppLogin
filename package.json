@@ -11,7 +11,7 @@
     "start": "webpack-dev-server --open"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "history": "^4.10.1",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.17",
